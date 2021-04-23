@@ -1,0 +1,5 @@
+*.db
+node_modules/
+old*
+step-by-step.txt
+trash
